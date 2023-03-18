@@ -4,7 +4,6 @@
 </div>
 
 <h1 align="center" dir="auto>
- Hi, 
 <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
 I,m Ayush Gupta
 </h1
