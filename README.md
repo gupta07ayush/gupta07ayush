@@ -11,9 +11,11 @@
 I,m Ayush Gupta
 </h1
  -->
-                  <h1 align="center" dir="auto">Hello🙋🏻, I'm Ayush Silarpuria</h1>
-                                               <h3 align="center">A Python Developer </h3>
-                                                                                                                         
+ 
+<h1 align="center">Hey🙋🏻, I'm Ayush Gupta</h1>
+<h3 align="center">A Python Developer </h3> 
+ 
+ 
 <!-- Profile views -->
 ![](https://komarev.com/ghpvc/?username=gupta07ayush&color=blueviolet&style=for-the-badge)
 
@@ -21,19 +23,19 @@ I,m Ayush Gupta
 <!-- Most views languages -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gupta07ayush&show_icons=true&locale=en&layout=compact" alt="gupta07ayush" /></p>                                                                                                                 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gupta07ayush&show_icons=true&locale=en&layout=compact" alt="gupta07ayush" /></p>                                                                                                                 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gupta07ayush&" alt="gupta07ayush" /></p>
+
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IzYmNhNWExYTYzZDUwNjhmN2YzYmNkNDkzNmJhNWMyOTVjMjAzNyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 
 
 
-
-<div id="header" align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1200" height="300"/>
-</div>
 
 <!-- Footer Banner -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IzYmNhNWExYTYzZDUwNjhmN2YzYmNkNDkzNmJhNWMyOTVjMjAzNyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-</div>
+
+
 
 
 
