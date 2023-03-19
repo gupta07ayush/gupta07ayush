@@ -6,11 +6,13 @@
 
 
 <!-- Hi I am Ayush Gupta -->
-<h1 align="center" dir="auto>
+<!-- <h1 align="center" dir="auto>
 <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
 I,m Ayush Gupta
 </h1
-<h1 align="center">Hello🙋🏻, I'm Ayush Silarpuria A Python Developer </h1>
+ -->
+                  <h1 align="center" dir="auto">Hello🙋🏻, I'm Ayush Silarpuria</h1>
+                                               <h3 align="center">A Python Developer </h3>
                                                                                                                          
 <!-- Profile views -->
 ![](https://komarev.com/ghpvc/?username=gupta07ayush&color=blueviolet&style=for-the-badge)
