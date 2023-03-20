@@ -8,7 +8,7 @@
 <!-- Hi I am Ayush Gupta -->
 <h1 align="center">Hey🙋🏻, I'm Ayush Gupta</h1>
 <h3 align="center">A Python Developer </h3> 
- 
+
 
 
 <!-- Profile views -->
@@ -18,7 +18,7 @@
 
 <!-- wordpress blog -->
 📝 I regularly write articles on [https://ayush07gupta.wordpress.com/](https://ayush07gupta.wordpress.com/)
-
+<hr></hr
 
 
 <!-- Most used languages -->
@@ -49,7 +49,7 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="tensorflow" width="40" height="40"/> </a></p>
-
+<hr></hr
 
 
 <!-- coding from home gif -->
@@ -77,6 +77,8 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1200" height="320"/>
 
 
+ <hr></hr
+<!-- Languages Box image -->
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
  <img src="https://skillicons.dev/icons?i=androidstudio,angular,arduino,blender,bootstrap,css,dart,discord,django,express,figma,firebase,flask,flutter,git,github,gitlab,heroku,html,java,js,linux,mongodb,mysql,nodejs,ps,py,selenium,ts,vscode&perline=10">
