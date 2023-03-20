@@ -11,12 +11,8 @@
  
 
 
-
-
 <!-- Profile views -->
 ![](https://komarev.com/ghpvc/?username=gupta07ayush&color=blueviolet&style=for-the-badge)
-
-
 
 
 
@@ -29,14 +25,9 @@
 <p><img align="left" width="42%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en&layout=compact" alt="gupta07ayush" /></p>
 
 
+
 <!-- Github states -->
 <p>&nbsp;<img align="center" width="55%" height="85%" src="https://github-readme-stats.vercel.app/api?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en" alt="gupta07ayush" /></p>
-
-
-
-
-
-
 
 
 
@@ -61,6 +52,11 @@
 
 
 
+<!-- coding from home gif -->
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IzYmNhNWExYTYzZDUwNjhmN2YzYmNkNDkzNmJhNWMyOTVjMjAzNyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" height="290" />
+
+
+
 <!-- Connect with me  -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -70,14 +66,10 @@
 <a href="https://www.youtube.com/@gupta07ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gupta07ayush" height="30" width="40" /></a>
 </p>
 
-<!-- coding from home gif -->
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IzYmNhNWExYTYzZDUwNjhmN2YzYmNkNDkzNmJhNWMyOTVjMjAzNyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" height="290" />
-
 
 
 <!-- Streak -->
 <p><img align="center" width="70%" height="20%" src="https://github-readme-streak-stats.herokuapp.com/?user=gupta07ayush&theme=radical&;title_color=ff3068" alt="gupta07ayush" /></p>
-
 
 
 
@@ -86,23 +78,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
+<!-- Other
 **gupta07ayush/gupta07ayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
