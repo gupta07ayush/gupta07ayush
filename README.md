@@ -77,6 +77,12 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1200" height="320"/>
 
 
+<h2 align="center">Languages and Tools:</h2>
+<p align="center"> 
+ <img src="https://skillicons.dev/icons?i=androidstudio,angular,arduino,blender,bootstrap,css,dart,discord,django,express,figma,firebase,flask,flutter,git,github,gitlab,heroku,html,java,js,linux,mongodb,mysql,nodejs,ps,py,selenium,ts,vscode&perline=10">
+</p>
+
+
 
 <!-- Other
 **gupta07ayush/gupta07ayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
