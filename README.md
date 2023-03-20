@@ -28,7 +28,7 @@
 
 <!-- Github states -->
 <p>&nbsp;<img align="center" width="55%" height="85%" src="https://github-readme-stats.vercel.app/api?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en" alt="gupta07ayush" /></p>
-
+<hr></hr
 
 
 <!-- Languages and tools -->
@@ -49,7 +49,7 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="tensorflow" width="40" height="40"/> </a></p>
-<hr></hr
+
 
 
 <!-- coding from home gif -->
