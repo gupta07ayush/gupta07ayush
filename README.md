@@ -26,16 +26,11 @@
 
 
 <!-- Most used languages -->
-<p><img align="left" width="45%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en&layout=compact" alt="gupta07ayush" /></p>
+<p><img align="left" width="42%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en&layout=compact" alt="gupta07ayush" /></p>
 
 
 <!-- Github states -->
-<p>&nbsp;<img align="center" width="50%" height="85%" src="https://github-readme-stats.vercel.app/api?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en" alt="gupta07ayush" /></p>
-
-
-<br>
-
-
+<p>&nbsp;<img align="center" width="55%" height="85%" src="https://github-readme-stats.vercel.app/api?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en" alt="gupta07ayush" /></p>
 
 
 
@@ -57,6 +52,7 @@
 <a href="https://twitter.com/gupta07ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gupta07ayush" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gupta07ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gupta07ayush" height="30" width="40" /></a>
 <a href="https://instagram.com/gupta07ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gupta07ayush" height="30" width="40" /></a>
+<a href="https://youtube.com/gupta07ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gupta07ayush" height="30" width="40" /></a>
 </p>
 
 <!-- coding from home gif -->
@@ -65,7 +61,7 @@
 
 
 <!-- Streak -->
-<p><img align="center" width="70%" height="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=gupta07ayush&theme=radical&;title_color=ff3068" alt="gupta07ayush" /></p>
+<p><img align="center" width="75%" height="20%" src="https://github-readme-streak-stats.herokuapp.com/?user=gupta07ayush&theme=radical&;title_color=ff3068" alt="gupta07ayush" /></p>
 
 
 
