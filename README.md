@@ -27,7 +27,7 @@
 
 
 <!-- Github states -->
-<p>&nbsp;<img align="center" width="55%" height="85%" src="https://github-readme-stats.vercel.app/api?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en" alt="gupta07ayush" /></p>
+<p>&nbsp;<img align="center" width="55%" height="85%" src="https://github-readme-stats.vercel.app/api?username=gupta07ayush&hide=contribs&theme=radical&title_color=ff3068&show_icons=true&locale=en" alt="gupta07ayush" /></p>
 <hr></hr
 
 
