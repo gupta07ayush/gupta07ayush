@@ -22,12 +22,12 @@
 
 
 <!-- Most used languages -->
-<p><img align="left" width="42%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en&layout=compact" alt="gupta07ayush" /></p>
+<p><img align="left" width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en&layout=compact&hide=PowerShell,Cython,nix,shell&langs_count=10" alt="gupta07ayush" /></p>
 
 
 
 <!-- Github states -->
-<p>&nbsp;<img align="center" width="55%" height="85%" src="https://github-readme-stats.vercel.app/api?username=gupta07ayush&hide=contribs&theme=radical&title_color=ff3068&show_icons=true&locale=en" alt="gupta07ayush" /></p>
+<p>&nbsp;<img align="center" width="55%" height="85%" src="https://github-readme-stats.vercel.app/api?username=gupta07ayush&hide=contribs&theme=radical&title_color=00ffef&text_color=6495ed&show_icons=true&locale=en&text_bold=false" alt="gupta07ayush" /></p>
 <hr></hr
 
 
@@ -86,6 +86,11 @@
 <p align="center"> 
  <img src="https://skillicons.dev/icons?i=androidstudio,angular,arduino,blender,bootstrap,css,dart,discord,django,express,figma,firebase,flask,flutter,git,github,gitlab,heroku,html,java,js,linux,mongodb,mysql,nodejs,ps,py,selenium,ts,vscode&perline=10">
 </p>
+
+
+<!-- wakatime -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gupta07ayush">
+
 
 
 
