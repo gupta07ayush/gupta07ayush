@@ -22,7 +22,7 @@
 
 
 <!-- Most used languages -->
-<p><img align="left" width="42%" height="85%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en&layout=compact&hide=PowerShell,Cython,nix,shell&langs_count=10" alt="gupta07ayush" /></p>
+<p><img align="left" width="42%" height="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en&layout=compact&hide=PowerShell,Cython,nix,shell&langs_count=10" alt="gupta07ayush" /></p>
 
 
 
