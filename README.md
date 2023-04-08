@@ -22,12 +22,12 @@
 
 
 <!-- Most used languages -->
-<p><img align="left" width="42%" height="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en&layout=compact&hide=PowerShell,Cython,nix,shell&langs_count=10" alt="gupta07ayush" /></p>
+<p><img align="left" width="39%" height="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en&layout=compact&hide=PowerShell,nix,shell&langs_count=10" alt="gupta07ayush" /></p>
 
 
 
 <!-- Github states -->
-<p>&nbsp;<img align="center" width="55%" height="85%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gupta07ayush&hide=stars,contribs&theme=radical&title_color=00ffef&text_color=6495ed&show_icons=true&locale=en&text_bold=false" alt="gupta07ayush" /></p>
+<p>&nbsp;<img align="center" width="55%" height="85%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gupta07ayush&hide=stars,contribs&theme=radical&title_color=fe428e&text_color=6495ed&show_icons=true&locale=en&text_bold=false" alt="gupta07ayush" /></p>
 <hr></hr
 
 
@@ -69,27 +69,19 @@
 
 
 
+<!-- wakatime -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gupta07ayush&title_color=6495ed">
+
+
+
 <!-- Streak -->
 <p><img align="center" width="70%" height="20%" src="https://github-readme-streak-stats.herokuapp.com/?user=gupta07ayush&theme=radical&;title_color=ff3068" alt="gupta07ayush" /></p>
-
-
-
 <hr></hr
 
 <!-- Footer Banner -->
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000" height="250"/>
 
-<!-- 
- <hr></hr
-<!-- Languages Box image -->
-<h2 align="center">Languages and Tools:</h2>
-<p align="center"> 
- <img src="https://skillicons.dev/icons?i=androidstudio,angular,arduino,blender,bootstrap,css,dart,discord,django,express,figma,firebase,flask,flutter,git,github,gitlab,heroku,html,java,js,linux,mongodb,mysql,nodejs,ps,py,selenium,ts,vscode&perline=10">
-</p>
- -->
 
-<!-- wakatime -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gupta07ayush">
 
 
 
