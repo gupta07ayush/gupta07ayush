@@ -22,7 +22,7 @@
 
 
 <!-- Most used languages -->
-<p><img align="left" width="39%" height="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en&layout=compact&hide=PowerShell,nix,shell&langs_count=10" alt="gupta07ayush" /></p>
+<p><img align="left" width="39%" height="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en&layout=compact&hide=PowerShell,nix,shell&langs_count=6" alt="gupta07ayush" /></p>
 
 
 
@@ -70,7 +70,7 @@
 
 
 <!-- wakatime -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gupta07ayush&title_color=6495ed">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gupta07ayush&title_color=6495ed&hide=Other,Markdown,Text,Git%20Config">
 
 
 
