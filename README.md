@@ -19,13 +19,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   
-<!--   Social Media Badge   -->  
+<!-- Social Media Badge -->  
 <a href="https://www.linkedin.com/in/gupta07ayush/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp; 
-<a href="https://instagram.com/gupta07ayush"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>&nbsp;&nbsp; 
-<a href="https://www.twitter.com/in/gupta07ayush/"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> </a>&nbsp;&nbsp;
-<a href="https://youtube.com/@gupta07ayush"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> </a>&nbsp;&nbsp;
-
-
+<a href="https://instagram.com/gupta07ayush"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>&nbsp;&nbsp; 
+<a href="https://www.twitter.com/in/gupta07ayush/"> <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> </a>&nbsp;&nbsp;
+<a href="https://youtube.com/@gupta07ayush"> <img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> </a>&nbsp;&nbsp;
+<a href="https://ayush07gupta.wordpress.com/"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>&nbsp;&nbsp;
 
 <!-- wordpress blog -->
 ### 📝 I regularly write articles on [https://ayush07gupta.wordpress.com/](https://ayush07gupta.wordpress.com/)
@@ -84,6 +83,12 @@
 <!-- Streak -->
 <p><img align="center" width="70%" height="20%" src="https://github-readme-streak-stats.herokuapp.com/?user=gupta07ayush&theme=radical&;title_color=ff3068" alt="gupta07ayush" /></p>
 <hr></hr
+
+
+<!-- Contibution Graph -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=gupta07ayush&theme=react" />
+
+
 
 <!-- Footer Banner -->
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000" height="250"/>
