@@ -10,14 +10,17 @@
 <h3 align="center">A Python Developer </h3> 
 
 
+<!-- wakatime -->
+<a href="https://wakatime.com/@fa5d7e55-44a5-40b7-a8bd-a0ffabe4eda3"><img align="left" width="210px" src="https://wakatime.com/badge/user/fa5d7e55-44a5-40b7-a8bd-a0ffabe4eda3.svg" alt="Total time coded since Mar 29 2023" /></a>
+
 
 <!-- Profile views -->
-![](https://komarev.com/ghpvc/?username=gupta07ayush&color=blueviolet&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=gupta07ayush&color=blueviolet&style=for-the-badge)
 
 
 
 <!-- wordpress blog -->
-📝 I regularly write articles on [https://ayush07gupta.wordpress.com/](https://ayush07gupta.wordpress.com/)
+### 📝 I regularly write articles on [https://ayush07gupta.wordpress.com/](https://ayush07gupta.wordpress.com/)
 <hr></hr
 
 
@@ -67,10 +70,6 @@
 <a href="https://www.youtube.com/@gupta07ayush" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gupta07ayush" height="30" width="40" /></a>
 </p>
 
-
-
-<!-- wakatime -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gupta07ayush&title_color=6495ed&hide=Other,Markdown,Text,Git%20Config">
 
 
 
