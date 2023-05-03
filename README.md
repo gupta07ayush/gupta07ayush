@@ -14,8 +14,16 @@
 <a href="https://wakatime.com/@fa5d7e55-44a5-40b7-a8bd-a0ffabe4eda3"><img align="left" width="220px" src="https://wakatime.com/badge/user/fa5d7e55-44a5-40b7-a8bd-a0ffabe4eda3.svg" alt="Total time coded since Mar 29 2023" /></a>
 
 
-<!-- Profile views -->
+<!-- Profile views --> <!--   Social Media Badge   -->
 ![Profile views](https://komarev.com/ghpvc/?username=gupta07ayush&color=blueviolet&style=for-the-badge)
+<a href="https://www.linkedin.com/in/gupta07ayush/"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/gupta07ayush">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>&nbsp;&nbsp; <a href="https://www.twitter.com/in/gupta07ayush/">
+    <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> </a>&nbsp;&nbsp;
+  <a href="https://youtube.com/@gupta07ayush">
+    <img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> </a>&nbsp;&nbsp;
 
 
 
