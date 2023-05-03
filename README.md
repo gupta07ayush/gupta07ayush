@@ -11,7 +11,7 @@
 
 
 <!-- wakatime -->
-<a href="https://wakatime.com/@fa5d7e55-44a5-40b7-a8bd-a0ffabe4eda3"><img align="left" width="210px" src="https://wakatime.com/badge/user/fa5d7e55-44a5-40b7-a8bd-a0ffabe4eda3.svg" alt="Total time coded since Mar 29 2023" /></a>
+<a href="https://wakatime.com/@fa5d7e55-44a5-40b7-a8bd-a0ffabe4eda3"><img align="left" width="220px" src="https://wakatime.com/badge/user/fa5d7e55-44a5-40b7-a8bd-a0ffabe4eda3.svg" alt="Total time coded since Mar 29 2023" /></a>
 
 
 <!-- Profile views -->
