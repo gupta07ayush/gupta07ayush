@@ -22,7 +22,7 @@
 <!-- Social Media Badge -->  
 <a href="https://www.linkedin.com/in/gupta07ayush/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp; 
 <a href="https://instagram.com/gupta07ayush"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>&nbsp;&nbsp; 
-<a href="https://www.twitter.com/in/gupta07ayush/"> <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> </a>&nbsp;&nbsp;
+<a href="https://www.twitter.com/gupta07ayush/"> <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> </a>&nbsp;&nbsp;
 <a href="https://youtube.com/@gupta07ayush"> <img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> </a>&nbsp;&nbsp;
 <a href="https://ayush07gupta.wordpress.com/"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>&nbsp;&nbsp;
 
