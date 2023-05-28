@@ -86,7 +86,7 @@
 
 
 <!-- Contibution Graph -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=gupta07ayush&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gupta07ayush&theme=react-dark" />
 
 
 
